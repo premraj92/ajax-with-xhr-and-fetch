@@ -1,0 +1,20 @@
+[
+    {
+        "companyName": "Big Corporation",
+        "numberOfEmployees": 10000,
+        "ceo": "Mathias",
+        "rating": 3.6
+    },
+    {
+        "companyName": "Startup",
+        "numberOfEmployees": 100,
+        "ceo": "veritas",
+        "rating": 4.2
+    },
+    {
+        "companyName": "Verizon",
+        "numberOfEmployees": 15000,
+        "ceo": "Theresa",
+        "rating": 4.2
+    }
+]
